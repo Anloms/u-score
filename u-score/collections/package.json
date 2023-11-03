@@ -1,0 +1,16 @@
+{
+  "name": "collections",
+  "version": "1.0.0",
+  "description": "",
+  "main": "collections.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0",
+    "nyc": "^15.1.0"
+  }
+}
