@@ -1,0 +1,1 @@
+The purpose of this project is to reproduce  the mechanics of the selected functions from Underscore.js library and to practice on them the art of creating unit tests.
